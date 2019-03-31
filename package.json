@@ -143,7 +143,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kaleguy/leovue.git"
+    "url": "https://edtimmer.github.io/leovue/"
   },
   "keywords": [
     "JSON",
@@ -152,7 +152,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kaleguy/leovue/issues"
+    "url": "https://edtimmer.github.io/leovue/issues"
   },
-  "homepage": "https://kaleguy.github.io/leovue/"
+  "homepage": "https://edtimmer.github.io/leovue/"
 }
